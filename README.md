@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Project Setup
+## Project Setup and Installation
 
 1.This project needs Node js make sure to install node js
 
@@ -26,3 +26,7 @@ Currently, two official plugins are available:
 ## project overview
 
 1.This a simple todo list application where the user can add a task todo and edit the existing task,mark the task as complete,and delete the task.
+
+### Git Repo Link
+
+[View the repository here](https://github.com/kalal-sateesh/Todo-List)
