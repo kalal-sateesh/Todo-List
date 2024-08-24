@@ -8,3 +8,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+##Project Setup
+1.This project needs Node js make sure to install node js
+2.Clone the git repo using command #git clone (origin url)
+3.Install the dependencies using the command #npm install 
+4.Run the project on your local using #npm run dev
+
+#project overview
+1.This a simple todo list application where the user can add a task todo and edit the existing task,mark the task as complete,and delete the task.
+
